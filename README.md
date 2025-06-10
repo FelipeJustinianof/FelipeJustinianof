@@ -1,16 +1,120 @@
-## Hi there 👋
+# 👩🏻‍💻 Felipe Justiniano
 
-<!--
-**FelipeJustinianof/FelipeJustinianof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Programação`**
 
-Here are some ideas to get you started:
+Me chamo Felipe Justiniano Felicio da Silva, tenho 21 anos e sou natural de Brasília. Atualmente moro em Cascavel, Paraná. Concluí o ensino médio no Colégio Estadual Carmelo Perrone e possuo curso de informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC, além de estudar outras linguagens como Angular, JavaScript e TypeScript. Sou um entusiasta de tecnologia e estou sempre em busca de aprender mais.
+<p align="left">
+  <a href="https://www.linkedin.com/in/felipe-justiniano-2a3483202/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" 
+      alt="Meu LinkedIn"
+    />
+  </a>
+  <a href="https://open.spotify.com/user/314s2g6rqwcmzwm5ryvtgbfcix7m" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge&labelColor=1DB954" 
+      alt="Meu Spotify"
+    />
+  </a>
+  <a href="https://github.com/felipejustinianof?tab=followers" target="_blank" rel="noopener noreferrer">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/felipejustinianof?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561198403419955/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Steam-0A2C45?logo=steam&logoColor=white&style=for-the-badge" 
+      alt="Steam" 
+    />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring Framework" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
+/>
+<br/><br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=FelipeJustinianof&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    align="left" 
+    alt="Top Linguagens" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJustinianof&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
