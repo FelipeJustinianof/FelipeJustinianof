@@ -23,12 +23,6 @@ Me chamo Felipe Justiniano Felicio da Silva, tenho 21 anos e sou natural de Bras
       src="https://custom-icon-badges.demolab.com/github/followers/felipejustinianof?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
-  <a href="https://steamcommunity.com/profiles/76561198403419955/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/Steam-0A2C45?logo=steam&logoColor=white&style=for-the-badge" 
-      alt="Steam" 
-    />
-  </a>
 </p>
 
 ---
