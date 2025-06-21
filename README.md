@@ -10,12 +10,6 @@ Me chamo Felipe Justiniano Felicio da Silva, tenho 21 anos e sou natural de Bras
       alt="Meu LinkedIn"
     />
   </a>
-  <a href="https://open.spotify.com/user/314s2g6rqwcmzwm5ryvtgbfcix7m" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge&labelColor=1DB954" 
-      alt="Meu Spotify"
-    />
-  </a>
   <a href="https://github.com/felipejustinianof?tab=followers" target="_blank" rel="noopener noreferrer">
     <img 
       alt="Seguidores" 
